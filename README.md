@@ -28,4 +28,6 @@ https://github.com/raxithgowda1/miniproject.git
 3.Access the application
 Open your browser and navigate to http://localhost:8080
 
+*For your kind information I've given different names for some of entities in the files.But you can refer this!
+
 Thank you for using the Jewellery Accounts Management System! We hope it helps you manage your jewellery business more efficiently.
