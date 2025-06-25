@@ -25,8 +25,7 @@ https://github.com/raxithgowda1/miniproject.git
 
 2. Setup the localhost with Wamp server
 
-3.Access the application
-Open your browser and navigate to http://localhost:8080
+3.Access the application, open your browser and navigate to http://localhost:8080
 
 
 *For your kind information I've given different names for some of entities in the files.But you can refer this!
